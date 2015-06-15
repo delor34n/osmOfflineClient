@@ -1,1 +1,1 @@
-# osmOfflineClient
+# OpenStreetMap Offline Android Client
